@@ -3,7 +3,7 @@
 # TDD com Webflux: Escrevendo testes unitários com Junit e Reactor Test para a sua API 
 
 
-Nesses dois vídeos vamos entender o que é TDD, quais são as etapas do TDD e como escrever testes unitários para uma API desenvolvida com Spring WebFlux e MongoDB na linguagem Java utilizando o Junit, o Reactor Test e o Mockito.
+Nessas duas  vamos entender o que é TDD, quais são as etapas do TDD e como escrever testes unitários para uma API desenvolvida com Spring WebFlux e MongoDB na linguagem Java utilizando o Junit, o Reactor Test e o Mockito.
 
 
 Aula 1: TDD com Webflux: Escrevendo testes unitários com Junit e Reactor Test <br>
