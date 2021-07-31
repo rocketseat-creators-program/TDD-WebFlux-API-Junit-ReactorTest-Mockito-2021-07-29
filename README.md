@@ -9,7 +9,7 @@ Nesses dois vídeos vamos entender o que é TDD, quais são as etapas do TDD e c
 Aula 1: TDD com Webflux: Escrevendo testes unitários com Junit e Reactor Test <br>
 Nessa aula vamos entender o que é TDD  e escrever os testes unitários de caso de sucesso e de erro para as operações CRUD do nosso cadastro de produtos.
 
-Slides: 
+[Slides](https://github.com/rocketseat-experts-club/TDD-WebFlux-API-Junit-ReactorTest-Mockito-2021-07-29/blob/master/TDD-comWebflux-Parte1.pdf)
 
 Aula 2: TDD com Webflux: Desenvolvimento e refatoração da aplicação <br>
  Nessa aula vamos fazer o desenvolvimento necessário na nossa aplicação para que os casos de teste passem e também vamos algumas refatorações para melhorar o nosso código.
