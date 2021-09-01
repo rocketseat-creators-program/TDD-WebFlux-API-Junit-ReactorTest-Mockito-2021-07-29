@@ -14,7 +14,7 @@ Nessa aula vamos entender o que é TDD  e escrever os testes unitários de caso 
 Aula 2: TDD com Webflux: Desenvolvimento e refatoração da aplicação <br>
  Nessa aula vamos fazer o desenvolvimento necessário na nossa aplicação para que os casos de teste passem e também vamos algumas refatorações para melhorar o nosso código.
  
- [Slidesç(https://github.com/rocketseat-experts-club/TDD-WebFlux-API-Junit-ReactorTest-Mockito-2021-07-29/blob/master/TDD-com-webflux-Parte2.pdf)
+ [Slides](https://github.com/rocketseat-experts-club/TDD-WebFlux-API-Junit-ReactorTest-Mockito-2021-07-29/blob/master/TDD-com-webflux-Parte2.pdf)
 
 ## Expert
 
